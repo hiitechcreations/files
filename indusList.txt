@@ -1,0 +1,325 @@
+! ===== AMAZON ADS =====
+||amazon-adsystem.com^
+||aax.amazon-adsystem.com^
+||aan.amazon.com^
+
+! ===== DOUBLECLICK / GOOGLE ADS =====
+||ad.doubleclick.net^
+||pubads.g.doubleclick.net^
+||securepubads.g.doubleclick.net^
+||pagead2.googlesyndication.com^
+||tpc.googlesyndication.com^
+||googleadservices.com^
+||adservice.google.com^
+
+! ===== MEDIA.NET =====
+||media.net^
+||static.media.net^
+||contextual.media.net^
+
+
+
+! ===== YOUTUBE MAIN VIDEO ONLY (WORKING) =====
+googlevideo.com/videoplayback?
+
+ads.mxtv.com
+ads.mxplay.com
+adserver.mxplay.com
+unityads.unity3d.com
+applovin.com
+vungle.com
+chartboost.com
+ironsource.mobi
+inmobi.com
+startappservice.com
+googleads.g.doubleclick.net
+
+
+! ===== MX PLAYER ADS =====
+ads.mxtv.com
+ads.mxplay.com
+adserver.mxplay.com
+tracking.mxplay.com
+analytics.mxplay.com
+stats.mxplay.com
+log.mxplay.com
+cdn.ads.mxplay.com
+
+! ===== HOTSTAR ADS =====
+ads.hotstar.com
+ad.hotstar.com
+metrics.hotstar.com
+analytics.hotstar.com
+tracking.hotstar.com
+logs.hotstar.com
+ads.media.hotstar.com
+doubleclick.hotstar.com
+
+! ===== JIOCINEMA ADS =====
+ads.jiocinema.com
+adtech.jiocinema.com
+analytics.jiocinema.com
+tracking.jiocinema.com
+metrics.jiocinema.com
+logs.jiocinema.com
+
+! ===== JIOCINEMA ADS =====
+ads.jiocinema.com
+adtech.jiocinema.com
+analytics.jiocinema.com
+tracking.jiocinema.com
+metrics.jiocinema.com
+logs.jiocinema.com
+
+googleads.g.doubleclick.net
+securepubads.g.doubleclick.net
+unityads.unity3d.com
+applovin.com
+
+! ===== ZEE5 ADS =====
+ads.zee5.com
+adserver.zee5.com
+analytics.zee5.com
+tracking.zee5.com
+metrics.zee5.com
+logs.zee5.com
+
+googleads.g.doubleclick.net
+pagead2.googlesyndication.com
+unityads.unity3d.com
+
+! ===== SONYLIV ADS =====
+ads.sonyliv.com
+adserver.sonyliv.com
+analytics.sonyliv.com
+tracking.sonyliv.com
+metrics.sonyliv.com
+logs.sonyliv.com
+
+googleads.g.doubleclick.net
+securepubads.g.doubleclick.net
+applovin.com
+vungle.com
+
+googleads.g.doubleclick.net
+securepubads.g.doubleclick.net
+pagead2.googlesyndication.com
+unityads.unity3d.com
+applovin.com
+vungle.com
+chartboost.com
+ironsource.mobi
+inmobi.com
+
+
+! ===== GOOGLE ADS (IN-APP) =====
+googleads.g.doubleclick.net
+pagead2.googlesyndication.com
+adservice.google.com
+tpc.googlesyndication.com
+securepubads.g.doubleclick.net
+
+! ===== UNITY ADS =====
+unityads.unity3d.com
+config.unityads.unity3d.com
+webview.unityads.unity3d.com
+adserver.unityads.unity3d.com
+auction.unityads.unity3d.com
+
+! ===== APPLOVIN =====
+applovin.com
+d.applovin.com
+rt.applovin.com
+ms.applovin.com
+
+! ===== IRONSOURCE =====
+ironsource.mobi
+is.com
+outcome-ssp.supersonicads.com
+init.supersonicads.com
+
+! ===== VUNGLE / LIFTOFF =====
+vungle.com
+api.vungle.com
+liftoff.io
+
+! ===== CHARTBOOST =====
+live.chartboost.com
+ads.chartboost.com
+
+! ===== MINTEGRAL =====
+mintegral.com
+a.mintegral.com
+cdn.mintegral.com
+
+! ===== INMOBI =====
+inmobi.com
+sdk.inmobi.com
+
+! ===== STARTAPP =====
+startappservice.com
+imp.startappservice.com
+
+! ===== FACEBOOK / META ADS =====
+graph.facebook.com
+ads.mopub.com
+
+! ===== INSTAGRAM REELS MAIN VIDEO ONLY (GUARANTEED) =====
+
+/t50.16885-16/
+scontent.cdninstagram.com/v/
+fbcdn.net/v/t50.
+
+! Extra safety (only video file patterns)
+mime=video
+mp4
+
+
+/adrequest
+/videoads
+/preroll
+/midroll
+/postroll
+/ads/video
+/adbreak
+/adunit
+
+
+
+! ===== CRITEO =====
+||criteo.com^
+||static.criteo.net^
+||bidder.criteo.com^
+
+! ===== TABOOLA =====
+||taboola.com^
+||cdn.taboola.com^
+||trc.taboola.com^
+||images.taboola.com^
+||nr.taboola.com^
+||api.taboola.com^
+
+! ===== OUTBRAIN =====
+||outbrain.com^
+||log.outbrain.com^
+||widgets.outbrain.com^
+||odb.outbrain.com^
+
+! ===== MGID =====
+||mgid.com^
+||cdn.mgid.com^
+||servicer.mgid.com^
+
+! ===== BING / MICROSOFT ADS =====
+||bat.bing.com^
+||bingads.microsoft.com^
+||ads.microsoft.com^
+
+! ===== APPLOVIN =====
+||applovin.com^
+||d.applovin.com^
+||rt.applovin.com^
+||ms.applovin.com^
+
+! ===== VUNGLE / LIFTOFF =====
+||api.vungle.com^
+||vungle.com^
+||liftoff.io^
+
+! ===== XANDR / ADNXS =====
+||adnxs.com^
+||ib.adnxs.com^
+||secure.adnxs.com^
+||acdn.adnxs.com^
+||prebid.adnxs.com^
+
+! ===== PUBMATIC =====
+||pubmatic.com^
+||ads.pubmatic.com^
+||image6.pubmatic.com^
+||hbopenbid.pubmatic.com^
+
+! ===== OPENX =====
+||openx.net^
+||us-ads.openx.net^
+||rtb.openx.net^
+||u.openx.net^
+
+! ===== MAGNITE / RUBICON / SPOTX =====
+||rubiconproject.com^
+||pixel.rubiconproject.com^
+||fastlane.rubiconproject.com^
+||spotxchange.com^
+
+! ===== INDEX EXCHANGE / CASALE =====
+||indexexchange.com^
+||casalemedia.com^
+||as.casalemedia.com^
+||cdn.indexexchange.com^
+||htlb.casalemedia.com^
+
+! ===== YAHOO / OATH =====
+||ads.yahoo.com^
+||gemini.yahoo.com^
+||adtech.yahooinc.com^
+
+! ===== UNITY ADS =====
+||auction.unityads.unity3d.com^
+||webview.unityads.unity3d.com^
+||config.unityads.unity3d.com^
+||adserver.unityads.unity3d.com^
+||unityads.unity3d.com^
+
+! ===== YANDEX =====
+||metrika.yandex.ru^
+||adfox.yandex.ru^
+||adfstat.yandex.ru^
+||appmetrica.yandex.ru^
+||extmaps-api.yandex.net^
+||offerwall.yandex.net^
+||mc.yandex.ru^
+
+! ===== MOBILE AD NETWORKS =====
+||live.chartboost.com^
+||init.supersonicads.com^
+||api.fyber.com^
+||inmobi.com^
+||ironsource.mobi^
+||is.com^
+||outcome-ssp.supersonicads.com^
+
+! ===== YOUTUBE / GOOGLE VIDEO ADS =====
+||s.youtube.com^
+||redirector.googlevideo.com^
+||youtubei.googleapis.com^
+
+! ===== AD EXCHANGES & SSP =====
+||adsrvr.org^
+||smartyads.com^
+||ad.gt^
+||contextweb.com^
+||sharethrough.com^
+||eb2.3lift.com^
+||tlx.3lift.com^
+||apex.go.sonobi.com^
+||c.gumgum.com^
+||a.teads.tv^
+||cdn.teads.tv^
+||cdn.kargo.com^
+||sync.kargo.com^
+
+! ===== ADROLL / NEXTROLL =====
+||d.adroll.com^
+||s.adroll.com^
+||adroll.com^
+
+! ===== PANGLE / BYTEDANCE =====
+||pangleglobal.com^
+
+! ===== AD VERIFICATION =====
+||doubleverify.com^
+||cdn.doubleverify.com^
+||pixel.adsafeprotected.com^
+||static.adsafeprotected.com^
+||fw.adsafeprotected.com^
+||insightexpressai.com^
