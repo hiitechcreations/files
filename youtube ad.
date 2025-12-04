@@ -4,3 +4,7 @@
 ||youtube.com/api/stats/ads^
 ||youtube.com/pagead^
 ||youtube.com
+||youtube.com/annotations_
+youtube.com/annotations_
+||facebook.com/ajax/mercury/change_read_status.php$xmlhttprequest
+
