@@ -17,11 +17,6 @@
 ||static.media.net^
 ||contextual.media.net^
 
-
-
-! ===== YOUTUBE MAIN VIDEO ONLY (WORKING) =====
-googlevideo.com/videoplayback?
-
 ads.mxtv.com
 ads.mxplay.com
 adserver.mxplay.com
