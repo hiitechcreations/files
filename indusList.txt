@@ -17,169 +17,97 @@
 ||static.media.net^
 ||contextual.media.net^
 
-ads.mxtv.com
-ads.mxplay.com
-adserver.mxplay.com
-unityads.unity3d.com
-applovin.com
-vungle.com
-chartboost.com
-ironsource.mobi
-inmobi.com
-startappservice.com
-googleads.g.doubleclick.net
-
+||ads.mxtv.com^
+||ads.mxplay.com^
+||adserver.mxplay.com^
+||unityads.unity3d.com^
+||applovin.com^
+||vungle.com^
+||chartboost.com^
+||ironsource.mobi^
+||inmobi.com^
+||startappservice.com^
+||googleads.g.doubleclick.net^
 
 ! ===== MX PLAYER ADS =====
-ads.mxtv.com
-ads.mxplay.com
-adserver.mxplay.com
-tracking.mxplay.com
-analytics.mxplay.com
-stats.mxplay.com
-log.mxplay.com
-cdn.ads.mxplay.com
+||ads.mxtv.com^
+||ads.mxplay.com^
+||adserver.mxplay.com^
+||tracking.mxplay.com^
+||analytics.mxplay.com^
+||stats.mxplay.com^
+||log.mxplay.com^
+||cdn.ads.mxplay.com^
 
 ! ===== HOTSTAR ADS =====
-ads.hotstar.com
-ad.hotstar.com
-metrics.hotstar.com
-analytics.hotstar.com
-tracking.hotstar.com
-logs.hotstar.com
-ads.media.hotstar.com
-doubleclick.hotstar.com
+||ads.hotstar.com^
+||ad.hotstar.com^
+||metrics.hotstar.com^
+||analytics.hotstar.com^
+||tracking.hotstar.com^
+||logs.hotstar.com^
+||ads.media.hotstar.com^
+||doubleclick.hotstar.com^
 
 ! ===== JIOCINEMA ADS =====
-ads.jiocinema.com
-adtech.jiocinema.com
-analytics.jiocinema.com
-tracking.jiocinema.com
-metrics.jiocinema.com
-logs.jiocinema.com
+||ads.jiocinema.com^
+||adtech.jiocinema.com^
+||analytics.jiocinema.com^
+||tracking.jiocinema.com^
+||metrics.jiocinema.com^
+||logs.jiocinema.com^
 
-! ===== JIOCINEMA ADS =====
-ads.jiocinema.com
-adtech.jiocinema.com
-analytics.jiocinema.com
-tracking.jiocinema.com
-metrics.jiocinema.com
-logs.jiocinema.com
-
-googleads.g.doubleclick.net
-securepubads.g.doubleclick.net
-unityads.unity3d.com
-applovin.com
-
-! ===== ZEE5 ADS =====
-ads.zee5.com
-adserver.zee5.com
-analytics.zee5.com
-tracking.zee5.com
-metrics.zee5.com
-logs.zee5.com
-
-googleads.g.doubleclick.net
-pagead2.googlesyndication.com
-unityads.unity3d.com
-
-! ===== SONYLIV ADS =====
-ads.sonyliv.com
-adserver.sonyliv.com
-analytics.sonyliv.com
-tracking.sonyliv.com
-metrics.sonyliv.com
-logs.sonyliv.com
-
-googleads.g.doubleclick.net
-securepubads.g.doubleclick.net
-applovin.com
-vungle.com
-
-googleads.g.doubleclick.net
-securepubads.g.doubleclick.net
-pagead2.googlesyndication.com
-unityads.unity3d.com
-applovin.com
-vungle.com
-chartboost.com
-ironsource.mobi
-inmobi.com
-
-
-! ===== GOOGLE ADS (IN-APP) =====
-googleads.g.doubleclick.net
-pagead2.googlesyndication.com
-adservice.google.com
-tpc.googlesyndication.com
-securepubads.g.doubleclick.net
+! ===== GOOGLE / COMMON ADS =====
+||googleads.g.doubleclick.net^
+||securepubads.g.doubleclick.net^
+||pagead2.googlesyndication.com^
+||adservice.google.com^
+||tpc.googlesyndication.com^
 
 ! ===== UNITY ADS =====
-unityads.unity3d.com
-config.unityads.unity3d.com
-webview.unityads.unity3d.com
-adserver.unityads.unity3d.com
-auction.unityads.unity3d.com
+||unityads.unity3d.com^
+||config.unityads.unity3d.com^
+||webview.unityads.unity3d.com^
+||adserver.unityads.unity3d.com^
+||auction.unityads.unity3d.com^
 
 ! ===== APPLOVIN =====
-applovin.com
-d.applovin.com
-rt.applovin.com
-ms.applovin.com
+||applovin.com^
+||d.applovin.com^
+||rt.applovin.com^
+||ms.applovin.com^
 
 ! ===== IRONSOURCE =====
-ironsource.mobi
-is.com
-outcome-ssp.supersonicads.com
-init.supersonicads.com
+||ironsource.mobi^
+||is.com^
+||outcome-ssp.supersonicads.com^
+||init.supersonicads.com^
 
 ! ===== VUNGLE / LIFTOFF =====
-vungle.com
-api.vungle.com
-liftoff.io
+||vungle.com^
+||api.vungle.com^
+||liftoff.io^
 
 ! ===== CHARTBOOST =====
-live.chartboost.com
-ads.chartboost.com
+||live.chartboost.com^
+||ads.chartboost.com^
 
 ! ===== MINTEGRAL =====
-mintegral.com
-a.mintegral.com
-cdn.mintegral.com
+||mintegral.com^
+||a.mintegral.com^
+||cdn.mintegral.com^
 
 ! ===== INMOBI =====
-inmobi.com
-sdk.inmobi.com
+||inmobi.com^
+||sdk.inmobi.com^
 
 ! ===== STARTAPP =====
-startappservice.com
-imp.startappservice.com
+||startappservice.com^
+||imp.startappservice.com^
 
 ! ===== FACEBOOK / META ADS =====
-graph.facebook.com
-ads.mopub.com
-
-! ===== INSTAGRAM REELS MAIN VIDEO ONLY (GUARANTEED) =====
-
-/t50.16885-16/
-scontent.cdninstagram.com/v/
-fbcdn.net/v/t50.
-
-! Extra safety (only video file patterns)
-mime=video
-mp4
-
-
-/adrequest
-/videoads
-/preroll
-/midroll
-/postroll
-/ads/video
-/adbreak
-/adunit
-
-
+||graph.facebook.com^
+||ads.mopub.com^
 
 ! ===== CRITEO =====
 ||criteo.com^
