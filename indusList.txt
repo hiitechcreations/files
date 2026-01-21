@@ -246,3 +246,6 @@
 ||static.adsafeprotected.com^
 ||fw.adsafeprotected.com^
 ||insightexpressai.com^
+
+
+@@||googlevideo.com^
